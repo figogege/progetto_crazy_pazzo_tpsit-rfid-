@@ -13,5 +13,6 @@ Possibile sviluppi fututri:
 - Inserire diversi piani di abbonamento che definiscono per quante ore un utente può accedere al servizio.
 - Creare delle tabelle con le informazioni degli abbonati per poter fornire alle aziende le  statisctiche riguardo a chi utilizza maggiormente i servizi (es sesso, età, luogo in cui viene utilizzato il servizio, per quanto tempo si usa, cosa viene richiesto maggiormente).
 - Rilevamenti di incidenti e infarzioni del codice della strada se si noleggiano mezzi di trasporto, tramite sensori di velocità o di urti.
+
 SIMULAZIONE
 Per simulare il progetto nel mondo reale utilizzeremo un led su Arduino, che si accende di un colore se il servizio viene sbloccato e di un altro se non viene autorizzato. Per la tecnologia NFC su Arduino verranno aggiunti moduli come PN532 o RC522.
